@@ -1,0 +1,7 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+request.obj
+main.obj
+sock.obj
+a.exe
