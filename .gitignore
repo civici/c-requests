@@ -5,3 +5,16 @@ request.obj
 main.obj
 sock.obj
 a.exe
+build.bat
+conn.obj
+requestr.obj
+secure.h
+secure.c
+secure.obj
+.vs/a/v16/.suo
+old/request.c
+old/request.h
+old/sock.c
+old/sock.h
+old/sockr.c
+old/sockr.h
